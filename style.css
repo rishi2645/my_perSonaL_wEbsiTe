@@ -1,0 +1,12 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border: dotted brown 6px;
+  border-bottom: none;
+  width: 6%;
+  margin: 70px auto;
+  background-color:  #EAF6F6;
+
+
+}
